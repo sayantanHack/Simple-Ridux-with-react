@@ -1,3 +1,6 @@
+<h1 align="center">Simple redux app</h1>
+
+### There have a simple print how the redux works. open console after starting the server yarn start . 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
